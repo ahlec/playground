@@ -1,0 +1,7 @@
+Maximum possible sum of Non-consecutive elements
+------------------------------------------------
+(http://sudhansu-codezone.blogspot.com/2012/03/maximum-possible-sum-of-non-consecutive.html)
+
+Example: If given array is (6, 4, 2, 8, 1), the answer will
+be 14 (8 + 6). This is the maximum sum we can obtain without
+taking two consecutive elements.
